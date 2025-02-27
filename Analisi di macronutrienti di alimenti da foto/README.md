@@ -1,4 +1,4 @@
-# **Analisi Automatica dei Macronutrienti di un Alimento da una Foto**  
+# **Analisi Automatica dei Valori Nutrizionali da Foto di Pietanze**  
 
 ## **Caso d'uso aziendale: Serenis**  
 
