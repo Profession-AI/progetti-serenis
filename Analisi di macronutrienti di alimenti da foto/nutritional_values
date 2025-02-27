@@ -1,0 +1,26 @@
+FOOD,CALORIES (100g),CARBOHYDRATES (100g),PROTEINS (100g),FATS (100g)
+sushi,170,25,7,3
+samosa,280,35,6,13
+pizza,280,35,11,10
+pav bhaji,230,28,7,12
+pakora,250,25,7,15
+pani puri,300,40,7,13
+omelette,180,4,13,12
+momos,220,30,10,8
+ice cream,220,25,4,12
+fried rice,230,30,7,10
+chicken curry,200,10,20,12
+cheesecake,350,30,7,25
+chapati,180,35,5,4
+chai,80,12,3,4
+butter naan,330,45,9,13
+burger,300,30,18,15
+apple pie,280,35,4,13
+taquito,230,25,10,10
+taco,200,20,12,8
+sandwich,250,25,13,12
+hot dog,280,20,13,18
+fries,350,40,5,18
+donut,350,40,5,18
+crispy chicken,300,20,23,15
+baked potato,130,25,3,1
