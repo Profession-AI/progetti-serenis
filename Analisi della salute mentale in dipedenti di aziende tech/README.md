@@ -32,3 +32,6 @@ Il questionario include informazioni come:
 - I programmi di benessere e le risorse di supporto aziendali sono realmente efficaci?  
 
 L'analisi non si limiterà a rispondere solo a queste domande, ma dovrà **estrarre tutti gli insight rilevanti** per identificare strategie efficaci nella prevenzione e gestione del burnout.
+
+## **Dataset**
+Il dataset può esere scaricato [cliccando qui](https://proai-datasets.s3.eu-west-3.amazonaws.com/mental_health_in_tech_survey.zip).
