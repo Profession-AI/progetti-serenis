@@ -29,5 +29,5 @@ Per l’addestramento del modello e il calcolo dei valori nutrizionali, saranno 
 - Il framework da utilizzare è **PyTorch**.
 
 ## **Dataset**
-1. [Immagini di pietanze]
+1. [Immagini di pietanze](https://proai-datasets.s3.eu-west-3.amazonaws.com/foods-25.zip)
 2. [Valori nutrizionali](https://github.com/Profession-AI/progetti-serenis/raw/refs/heads/main/Analisi%20di%20macronutrienti%20di%20alimenti%20da%20foto/nutritional_values.csv)
