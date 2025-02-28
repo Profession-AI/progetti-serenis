@@ -38,3 +38,6 @@ Il file dovrà essere salvato con il formato:
 ### Restrizioni sul trattamento dei dati
 
 Poiché i dati trattati rientrano nell’ambito medico, non è consentito l'uso di sistemi di intelligenza artificiale commerciali basati su API per il riconoscimento vocale (Speech-to-Text) o l'elaborazione del linguaggio naturale (LLM). È obbligatorio adottare soluzioni open-source che possano essere eseguite in locale o su server privati, garantendo il pieno controllo sui dati e il rispetto delle normative sulla privacy.
+
+### I dati
+[Registrazioni di sessioni di psicoterapia](https://proai-datasets.s3.eu-west-3.amazonaws.com/psychotherapy_sessions.zip)
